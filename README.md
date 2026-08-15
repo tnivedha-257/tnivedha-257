@@ -19,6 +19,7 @@
 
 ## Web Development:
 ![HTML5](https://img.shields.io/badge/HTML5-FF7043?style=for-the-badge&logo=html5&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-CC7043?style=for-the-badge&logo=html5&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-66BB6A?style=for-the-badge&logo=node.js&logoColor=white)
 
 
