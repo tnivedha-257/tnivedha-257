@@ -31,8 +31,9 @@
 **4. Cloud Deployment (Hugging Face Streamlit)** <br>
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-66BB6A?style=for-the-badge&logo=node.js&logoColor=white)<br>
+**5. JavaScript Deployment** <br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)<br>
 
 
 ## Databases:
