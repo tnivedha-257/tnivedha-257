@@ -49,7 +49,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-AB47BC?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-EC407A?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)<br>
-
+### My ML Projects:
+[Diabetic Prediction (Python, Flask, Pandas, Numpy and scikit-learn)](https://github.com/tnivedha-257/food-ordering-system-tkinter-mysql) <br>
 
 ## Developer Tools:
 ![GitHub](https://img.shields.io/badge/GitHub-546E7A?style=for-the-badge&logo=github&logoColor=white)
