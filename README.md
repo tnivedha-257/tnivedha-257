@@ -36,7 +36,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)<br>
 
 ## My Other Projects!
-* [Food Ordering System (Python & MySQL)](https://github.com/tnivedha-257/food-ordering-system-tkinter-mysql)
+* [Food Ordering System (Python & MySQL)](https://github.com/tnivedha-257/food-ordering-system-tkinter-mysql)<br>
+* My class 12 Peroject*
   *A desktop application built using Tkinter and MySQL for managing customers and food orders.*
   
 ## Databases:
