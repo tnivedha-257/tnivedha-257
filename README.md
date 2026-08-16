@@ -56,7 +56,7 @@
 ## AI Tools:
 ![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-546E7A?style=for-the-badge)
 ![OpenCode](https://img.shields.io/badge/OpenCode-42A5F5?style=for-the-badge)
-![NotebookLM](https://img.shields.io/badge/NotebookLM-7E57C2?style=for-the-badge)
+![Notebook LM](https://img.shields.io/badge/Notebook%20LM-7E57C2?style=for-the-badge)
 
 ## Design & Creative Tools:
 ![Canva](https://img.shields.io/badge/Canva-26C6DA?style=for-the-badge&logo=canva&logoColor=white)
