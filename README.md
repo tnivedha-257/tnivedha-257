@@ -22,7 +22,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)<br>
-[Diabetic Prediction (Python, Flask, Pandas, Numpy and scikit-learn)](https://github.com/tnivedha-257/diabetes-prediction-app)<br><br>
+[GitHub: Diabetic Prediction (Python, Flask, Pandas, Numpy and scikit-learn)](https://github.com/tnivedha-257/diabetes-prediction-app)<br><br>
 **2. Cloud Deployment (Hugging Face Docker)** <br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)<br>
@@ -51,7 +51,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-EC407A?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)<br>
 
-[Diabetic Prediction (Python, Flask, Pandas, Numpy and scikit-learn)](https://github.com/tnivedha-257/diabetes-prediction-app) <br>
+[GitHub: Diabetic Prediction (Python, Flask, Pandas, Numpy and scikit-learn)](https://github.com/tnivedha-257/diabetes-prediction-app) <br>
 
 ## AI Tools:
 ![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-546E7A?style=for-the-badge)
