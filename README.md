@@ -57,11 +57,26 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)<br>
 [i) GitHub - Diabetic Prediction (Python, Flask, Pandas, NumPy, scikit-learn and logistic regression) - ](https://github.com/tnivedha-257/diabetes-prediction-app) https://github.com/tnivedha-257/diabetes-prediction-app<br>
 <br>
+
+## Deep Learning:
+![TensorFlow](https://img.shields.io/badge/TensorFlow-26C6DA?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white)
+<br>
+
+## Generative AI:
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+<br>
+## AI Agents:
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=crewai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FFD21E?style=for-the-badge&logo=n8n&logoColor=black)
+![MCP](https://img.shields.io/badge/MCP-6C63FF?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+<br>
 ## AI Tools:
 ![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-546E7A?style=for-the-badge)
 ![OpenCode](https://img.shields.io/badge/OpenCode-42A5F5?style=for-the-badge)
 ![Notebook LM](https://img.shields.io/badge/Notebook%20LM-7E57C2?style=for-the-badge)
-
+<br>
 ## Design & Creative Tools:
 ![Canva](https://img.shields.io/badge/Canva-26C6DA?style=for-the-badge&logo=canva&logoColor=white)
 ![GIMP](https://img.shields.io/badge/GIMP-8D6E63?style=for-the-badge&logo=gimp&logoColor=white)
