@@ -55,7 +55,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-AB47BC?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-EC407A?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)<br>
-[i) GitHub - Diabetic Prediction (Python, Flask, Pandas, NumPy and scikit-learn) - ](https://github.com/tnivedha-257/diabetes-prediction-app) https://github.com/tnivedha-257/diabetes-prediction-app<br>
+[i) GitHub - Diabetic Prediction (Python, Flask, Pandas, NumPy, scikit-learn and logistic regression) - ](https://github.com/tnivedha-257/diabetes-prediction-app) https://github.com/tnivedha-257/diabetes-prediction-app<br>
 <br>
 ## AI Tools:
 ![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-546E7A?style=for-the-badge)
