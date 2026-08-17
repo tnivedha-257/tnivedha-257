@@ -24,9 +24,8 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)<br>
 [i) GitHub - Diabetic Prediction - ](https://github.com/tnivedha-257/diabetes-prediction-app) https://github.com/tnivedha-257/diabetes-prediction-app<br>
 <br>
-**2. Cloud Deployment (Hugging Face Docker)** <br>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)<br>
+**2. Cloud Deployment (Docker)** <br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)<br>
 <br>
 **3. Cloud Deployment (Hugging Face Gradio)** <br>
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logoColor=white)
