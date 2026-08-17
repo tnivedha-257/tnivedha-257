@@ -57,7 +57,7 @@
 [i) GitHub - Diabetic Prediction (Python, Flask, Pandas, NumPy, scikit-learn and logistic regression) - ](https://github.com/tnivedha-257/diabetes-prediction-app) https://github.com/tnivedha-257/diabetes-prediction-app<br>
 <br>
 
-## Deep Learning:
+## Deep Learning / Transfer Learning:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-26C6DA?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white)
