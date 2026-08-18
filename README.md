@@ -1,9 +1,7 @@
 ## Hello, I'm Nivedha!
 
 🎓 Computer Science and Engineering student at Rajalakshmi College of Engineering  
-🚀 Passionate about building impactful applications while exploring AI, Machine Learning, Data Science, and UI design  
-⚡ Currently exploring JavaScript, Node.js, Electron.js & Web Development  
-🌸 Learning, building, and growing one project at a time!
+🚀 Passionate about building impactful applications while exploring AI, Machine Learning, Data Science, and Web Development.
 
 
 ## Connect with Me!
