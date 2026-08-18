@@ -65,7 +65,8 @@
 
 ## Generative AI:
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)<br>
-[i) Hugging Face Gradio - NIVEDHA'S Secure Modular RAG Engine - ](https://huggingface.co/spaces/tnivedha-257/Nivedha-Secure-RAG-Engine)https://huggingface.co/spaces/tnivedha-257/Nivedha-Secure-RAG-Engine
+[i) Hugging Face Gradio - NIVEDHA'S Secure Modular RAG Engine - ](https://huggingface.co/spaces/tnivedha-257/Nivedha-Secure-RAG-Engine)https://huggingface.co/spaces/tnivedha-257/Nivedha-Secure-RAG-Engine<br>
+[ii) GitHub - NIVEDHA'S Secure Modular RAG Engine - ](https://github.com/tnivedha-257/diabetes-prediction-app) https://github.com/tnivedha-257/diabetes-prediction-app<br>
 <br>
 ## AI Agents:
 ![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=crewai&logoColor=white)
