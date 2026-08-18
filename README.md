@@ -30,7 +30,8 @@
 **3. Cloud Deployment (Hugging Face Gradio)** <br>
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>
-[i) Hugging Face Gradio - Diabetic Prediction App - ](https://huggingface.co/spaces/tnivedha-257/Diabetes-prediction) https://huggingface.co/spaces/tnivedha-257/Diabetes-prediction<br>
+[i) Hugging Face Gradio - NIVEDHA'S Secure Modular RAG Engine - ](https://huggingface.co/spaces/tnivedha-257/Nivedha-Secure-RAG-Engine)https://huggingface.co/spaces/tnivedha-257/Nivedha-Secure-RAG-Engine<br>
+[ii) Hugging Face Gradio - Diabetic Prediction App - ](https://huggingface.co/spaces/tnivedha-257/Diabetes-prediction) https://huggingface.co/spaces/tnivedha-257/Diabetes-prediction<br>
 <br>
 **4. Cloud Deployment (Hugging Face Streamlit)** <br>
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
