@@ -1,6 +1,6 @@
 ## Hello, I'm Nivedha!
 
-A Computer Science and Engineering student at Rajalakshmi College of Engineering who is passionate about building impactful applications while exploring AI, Machine Learning, Data Science, Deep Learning, Generative AI, Agentic AI, Cloud and Web Development.
+A Computer Science and Engineering student at Rajalakshmi College of Engineering. I am passionate about building impactful applications using Machine Learning, Data Science, Deep Learning, Generative AI, Agentic AI, Cloud and Web Development.
 
 
 ## Connect with Me!
