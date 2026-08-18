@@ -84,3 +84,7 @@
 ![GIMP](https://img.shields.io/badge/GIMP-8D6E63?style=for-the-badge&logo=gimp&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-B0BEC5?style=for-the-badge&logo=inkscape&logoColor=black)
 ![Krita](https://img.shields.io/badge/Krita-7E57C2?style=for-the-badge&logo=krita&logoColor=white)
+<br>
+## Research & Paper Publication
+[![Scopus](https://img.shields.io/badge/Scopus-Author_ID:_60597970400-F96302?style=for-the-badge&logo=elsevier&logoColor=white)](https://img.shields.io/badge/Scopus-F96302?style=for-the-badge&logo=elsevier&logoColor=white)(https://www.scopus.com/authid/detail.uri?authorId=60597970400&origin=resultslist)
+
