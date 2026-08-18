@@ -7,14 +7,14 @@ A Computer Science and Engineering student at Rajalakshmi College of Engineering
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nivedha-t-175410377)
 
 
-## Programming Languages:
+## Languages I Code In:
 ![C](https://img.shields.io/badge/C-5C6BC0?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-7986CB?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-42A5F5?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD54F?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-## Web Development Tech Stack
+## Web Development & Deployment Stack
 **1. Local Network Deployment (LAN/Intranet, including Wi-Fi access)** <br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -38,7 +38,7 @@ A Computer Science and Engineering student at Rajalakshmi College of Engineering
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)<br>
 
-## My Other Projects:
+## 	Featured Projects:
 [i) GitHub - Food Ordering System (Python & MySQL)](https://github.com/tnivedha-257/food-ordering-system-tkinter-mysql) <br>
 (My Class 12 Project: A desktop application built using Tkinter and MySQL for managing customers and food orders.)
   
@@ -47,7 +47,7 @@ A Computer Science and Engineering student at Rajalakshmi College of Engineering
 ![MongoDB](https://img.shields.io/badge/MongoDB-43A047?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-## AI & Data Science:
+## 	Data Science Toolkit:
 ![NumPy](https://img.shields.io/badge/NumPy-26C6DA?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-AB47BC?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-EC407A?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -66,17 +66,17 @@ A Computer Science and Engineering student at Rajalakshmi College of Engineering
 [i) Hugging Face Gradio - NIVEDHA'S Secure Modular RAG Engine - ](https://huggingface.co/spaces/tnivedha-257/Nivedha-Secure-RAG-Engine)https://huggingface.co/spaces/tnivedha-257/Nivedha-Secure-RAG-Engine<br>
 [ii) GitHub - NIVEDHA Secure Modular RAG Engine - ](https://github.com/tnivedha-257/Nivedha-Secure-RAG-Engine) https://github.com/tnivedha-257/Nivedha-Secure-RAG-Engine<br>
 <br>
-## AI Agents:
+## 	Agentic AI & Automation:
 ![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=crewai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FFD21E?style=for-the-badge&logo=n8n&logoColor=black)
 ![MCP](https://img.shields.io/badge/MCP-6C63FF?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 <br>
-## AI Tools:
+## AI-Assisted Development Tools:
 ![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-546E7A?style=for-the-badge)
 ![OpenCode](https://img.shields.io/badge/OpenCode-42A5F5?style=for-the-badge)
 ![Notebook LM](https://img.shields.io/badge/Notebook%20LM-7E57C2?style=for-the-badge)
 <br>
-## Design & Creative Tools:
+## Design & Graphics Tools:
 ![Canva](https://img.shields.io/badge/Canva-26C6DA?style=for-the-badge&logo=canva&logoColor=white)
 ![GIMP](https://img.shields.io/badge/GIMP-8D6E63?style=for-the-badge&logo=gimp&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-B0BEC5?style=for-the-badge&logo=inkscape&logoColor=black)
