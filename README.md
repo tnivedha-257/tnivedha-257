@@ -86,5 +86,5 @@
 ![Krita](https://img.shields.io/badge/Krita-7E57C2?style=for-the-badge&logo=krita&logoColor=white)
 <br>
 ## Research & Paper Publication
-[![Scopus](https://img.shields.io/badge/Scopus-Author_ID:_60597970400-F96302?style=for-the-badge&logo=elsevier&logoColor=white)](https://img.shields.io/badge/Scopus-F96302?style=for-the-badge&logo=elsevier&logoColor=white)(https://www.scopus.com/authid/detail.uri?authorId=60597970400&origin=resultslist)
-
+[![Scopus](https://img.shields.io/badge/Scopus-Author_ID:_60597970400-F96302?style=for-the-badge&logo=elsevier&logoColor=white)](https://img.shields.io/badge/Scopus-F96302?style=for-the-badge&logo=elsevier&logoColor=white)<br>(https://www.scopus.com/authid/detail.uri?authorId=60597970400&origin=resultslist)<br>
+i) Leveraging Transfer Learning with MobileNetV2 for Robust Animal Detection in Challenging Environments - https://link.springer.com/chapter/10.1007/978-3-032-08504-7_18<br>
