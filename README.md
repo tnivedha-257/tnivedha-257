@@ -64,7 +64,7 @@ A Computer Science and Engineering student at Rajalakshmi College of Engineering
 ![Tkinter](https://img.shields.io/badge/Tkinter-8.6-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 <br>
-[i) GitHub - YOLO People Counter ](https://github.com/tnivedha-257/YOLO_People_Count) - https://github.com/tnivedha-257/YOLO_People_Count
+[i) GitHub - Track People and Count (YOLO) ](https://github.com/tnivedha-257/YOLO_People_Count) - https://github.com/tnivedha-257/YOLO_People_Count
 <br>
 
 ## Generative AI:
