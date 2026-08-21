@@ -89,4 +89,4 @@ A Computer Science and Engineering student at Rajalakshmi College of Engineering
 1. Advancing animal recognition through transfer learning: A novel approach to robust detection and classification - https://www.taylorfrancis.com/chapters/edit/10.1201/9781003515470-68/advancing-animal-recognition-transfer-learning-novel-approach-robust-detection-classification-thyagharajan-kalaiarasi-lalitha-vignesh-nivedha-nellore-adi-narayana <br>
 2. Leveraging Transfer Learning with MobileNetV2 for Robust Animal Detection in Challenging Environments - https://link.springer.com/chapter/10.1007/978-3-032-08504-7_18<br>
 ### B) Patent Publications
-1. Method and System for Data Driven Epoch Control and Stability Aware Training of Clinical Prediction Models  -  The Patent Office Journal No. 23/2026 Dated 05/06/2026 Page 66577 - https://search.ipindia.gov.in/IPOJournal/Journal/ViewJournal  
+1. Method and System for Data Driven Epoch Control and Stability Aware Training of Clinical Prediction Models  -  The Patent Office Journal No. 23/2026 Dated 05/06/2026 Page 66577 - https://search.ipindia.gov.in/IPOJournal/Journal/Patent   
