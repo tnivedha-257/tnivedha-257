@@ -58,7 +58,13 @@ A Computer Science and Engineering student at Rajalakshmi College of Engineering
 ## Deep Learning / Transfer Learning:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-26C6DA?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ultralytics](https://img.shields.io/badge/ultralytics-%237733BB?style=for-the-badge&logo=python&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-v11-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![Tkinter](https://img.shields.io/badge/Tkinter-8.6-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<br>
+[i) GitHub - YOLO People Counter ](https://github.com/tnivedha-257/YOLO_People_Count) - https://github.com/tnivedha-257/YOLO_People_Count
 <br>
 
 ## Generative AI:
